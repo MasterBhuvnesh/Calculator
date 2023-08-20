@@ -142,6 +142,14 @@ if __name__ == "__main__":
 ```
 This block of code checks if the script is being run directly (as opposed to being imported as a module). If it's the main execution, it creates an instance of the Calculator class and starts the GUI application using the run method.
 
+## 👀 Screenshots of Application
+
+
+## 👀 Screenshots of Code
+
+
+![image](https://github.com/MasterBhuvnesh/Calculator/assets/99537126/0eda5fb0-e433-49a2-8768-436afc2f131f)
+
 
 ## 🔗 Links
 
