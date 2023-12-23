@@ -156,9 +156,6 @@ This block of code checks if the script is being run directly (as opposed to bei
 
 ## 🔗 Links
 
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvneshverma)
-
-[![linkedin](https://img.shields.io/badge/instagram-FF007F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhuvnesh_2904/)
+[![linkedin](https://img.shields.io/badge/instagram-FF007F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/verma_bhuvnesh_2904/)
 
 [![linkedin](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.instagram.com/bhuvnesh_2904/)
